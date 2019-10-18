@@ -1,6 +1,6 @@
 # Spider-Animation
 
-School Project using OpenGL to create a 6-leg spider animation with natural movement.
+School Project using OpenGL to design a 6-leg spider model with natural joint control.
 
 User interface for the example program is provided through mouse buttons and keyboard:
 
