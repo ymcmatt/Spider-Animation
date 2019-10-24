@@ -1,6 +1,6 @@
-# Beetles-Animation
+# Spider-Animation
 
-School Project using OpenGL to design a 3D beetle model which allows user to control every joint
+School Project using OpenGL to design a 3D fat 6-leg spider model which allows user to control every joint
 
 User interface for the example program is provided through mouse buttons and keyboard:
 
